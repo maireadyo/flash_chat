@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592087799476",
+    "project_id": "planar-truck-397211",
+    "storage_bucket": "planar-truck-397211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592087799476:android:66db9295e2ee94d65369e1",
+        "android_client_info": {
+          "package_name": "com.maireadyo.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJM8fe1Spr6YdCtc5iAgU9-RulCa-DVMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

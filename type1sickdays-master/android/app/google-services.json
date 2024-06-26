@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "811783411246",
+    "firebase_url": "https://type1sickdays-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "type1sickdays",
+    "storage_bucket": "type1sickdays.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811783411246:android:f5e0987a6a0d8fb88ef1bf",
+        "android_client_info": {
+          "package_name": "com.example.type_1_sick_days"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_KTNeXvIHBeTbn5dfjF9GTKNPU_mPRfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
